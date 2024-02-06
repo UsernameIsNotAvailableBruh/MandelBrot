@@ -1,5 +1,3 @@
-#This is not related at all
-
 import time
 import PIL.Image
 
